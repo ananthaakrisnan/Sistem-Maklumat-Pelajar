@@ -1,0 +1,24 @@
+{
+  "name": "sistem-maklumat-pelajar-kakitangan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "validation.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ananthaakrisnan/Sistem-Maklumat-Pelajar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ananthaakrisnan/Sistem-Maklumat-Pelajar/issues"
+  },
+  "homepage": "https://github.com/ananthaakrisnan/Sistem-Maklumat-Pelajar#readme",
+  "devDependencies": {
+    "jest": "^30.4.2"
+  }
+}

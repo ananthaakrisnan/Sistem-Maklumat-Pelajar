@@ -14,3 +14,13 @@ function isValidEmail(email){
 function isValidPassword(password){
     return password.length >= 6;
 }
+
+// Export untuk Jest/Node.js
+if (typeof module !== 'undefined' && module.exports) {
+    module.exports = {
+        isValidName,
+        isValidUsername,
+        isValidEmail,
+        isValidPassword
+    };
+}
